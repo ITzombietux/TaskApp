@@ -1,0 +1,6 @@
+framework module Pods_TasksApp {
+  umbrella header "Pods-TasksApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
